@@ -1,3 +1,19 @@
 // Place all the styles related to the static_pages controller here.
 // They will automatically be included in application.css.
 // You can use Sass (SCSS) here: http://sass-lang.com/
+
+body, h1, h2 {
+	background-color: black;
+	color: white;
+	font-family: 'Orbitron', cursive, sans-serif;
+}
+
+h1 {
+	text-align: center;
+	color: red;
+	font-family: 'Orbitron', cursive, sans-serif;
+}
+
+li {
+	font-size: 18px;
+}
